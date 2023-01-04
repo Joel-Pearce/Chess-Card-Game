@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: a9ec0014bab81454fbe9b22678f947a9
+  - enabled: 1
+    path: Assets/Scenes/ModeScreenBlackOrWhite.unity
+    guid: 01dfed83d7e02e44cb1d8ab874d3b070
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 46b3bff6929b1db458d56d5e71d95035
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: faf79f73e1cf4064e981f2f77411e8bb
+  - enabled: 1
+    path: Assets/Scenes/ModeScreenAIDifficulty.unity
+    guid: c90a4d47725632c49914ef94f490d0d5
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 011e007e643fcc04ea878202d44dda0f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/GameScreenMultiplayer.unity
+    guid: b4c547d232643f94ebb0e76f2a988a53
+  - enabled: 1
+    path: Assets/Scenes/GameScreenAI.unity
+    guid: 1c17a53cb6191b34c8d7141ad3e6ee89
+  - enabled: 1
+    path: Assets/Scenes/GameOverAI.unity
+    guid: 9de2ccadc49b6b1449a6190707a59c22
+  - enabled: 1
+    path: Assets/Scenes/ModeScreenBranch.unity
+    guid: b042f082576ccd04cb9b44f569981d3c
+  m_configObjects: {}
